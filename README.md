@@ -104,6 +104,7 @@ ACCOUNT_SID = "ACxxxxxxxxxxxxx"
 AUTH_TOKEN = "yyyyyyyyyyyyyyyy"
 TWILIO_APP_SID = "APzzzzzzzzz"
 TWILIO_CALLER_ID = "+17778889999"
+export NYTIMES_API_KEY=wooooooo
 ```
 
 #### Setting Your Own Environment Variables
