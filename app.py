@@ -19,8 +19,8 @@ app.config['API_PATH'] = \
 @app.route('/conference/<conference_room>', methods=['POST'])
 def voice(conference_room):
     response = twiml.Response()
-    with response.dial(timeLimit='120') as dial:
-        dial.conference(conference_room)
+    with response.dial() as dial:
+        dial.conference(conference_room, waitUrl="/wait")
     return str(response)
 
 
