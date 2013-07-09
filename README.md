@@ -24,6 +24,20 @@ Look at all these crazy features!
 * PEP8 - It's good for you!
 
 
+## Dependencies
+
+* [Twilio account](https://www.twilio.com/try-twilio)
+* [New York Times developer account](http://developer.nytimes.com/)
+* [Flask](http://flask.pocoo.org/)
+* [Requests](http://docs.python-requests.org/)
+
+*Optional for tests*
+
+* [Nose](https://nose.readthedocs.org/)
+* [Mock](http://www.voidspace.org.uk/python/mock/)
+* [simplejson](http://simplejson.readthedocs.org/)
+
+
 ## Usage
 
 This project ships with two ready-to-go endpoints for your Twilio conference.
