@@ -35,6 +35,9 @@ def waitUrl():
         if api_request.status_code == 200:
             json_response = api_request.json()
             if json_response:
+                response.say("While you wait for your conference to connect, " \
+                        "here are today's headlines from the New York Times.",
+                        voice="alice")
                 for result in json_response['results']:
                     response.say(result['abstract'], voice='alice')
                     response.pause()
