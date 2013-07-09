@@ -62,7 +62,7 @@ class ConferenceTests(TwiMLTest):
     def test_voice(self):
         response = self.call(url="/conference/conference_test")
         self.assertTwiML(response)
-        self.assertTrue('<Conference>' in response.data, "Could not find " \
+        self.assertTrue('<Conference' in response.data, "Could not find " \
                 "<Conference> in response: %s" % response.data)
 
 
@@ -78,8 +78,8 @@ class WaitTests(TwiMLTest):
         response = self.call(url="/wait")
 
         self.assertTwiML(response)
-        self.assertTrue("<Say voice=\"alice\">" in response.data, "Could not " \
-                "find <Say> verb in response: %s" % response.data)
+        self.assertTrue("<Say voice=\"alice\">" in response.data,
+                "Could not find <Say> verb in response: %s" % response.data)
 
     @patch('requests.get')
     def test_waitUrlAuthError(self, MockRequests):

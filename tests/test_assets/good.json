@@ -1,0 +1,2828 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+  "num_results": 973,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/world\/asia\/frustrated-obama-considers-full-troop-withdrawal-from-afghanistan.html",
+      "adx_keywords": "United States Defense and Military Forces;Afghanistan War (2001- );Obama, Barack;Karzai, Hamid;United States International Relations;Defense Department;Taliban;Afghanistan",
+      "column": "",
+      "section": "World",
+      "byline": "By MARK MAZZETTI and MATTHEW ROSENBERG",
+      "type": "Article",
+      "title": "U.S. Considers Faster Pullout in Afghanistan",
+      "abstract": "President Obama, frustrated in his dealings with President Karzai, is considering speeding up troop withdrawals from Afghanistan and even leaving no American troops after 2014.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002325714",
+      "asset_id": 1.0000000232571e+14,
+      "views": 1,
+      "des_facet": [
+        "UNITED STATES DEFENSE AND MILITARY FORCES",
+        "AFGHANISTAN WAR (2001- )",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "DEFENSE DEPARTMENT",
+        "TALIBAN"
+      ],
+      "per_facet": [
+        "OBAMA, BARACK",
+        "KARZAI, HAMID"
+      ],
+      "geo_facet": [
+        "AFGHANISTAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Obama-Karzai relationship has cooled recently.",
+          "copyright": "Larry Downing\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-articleInline.jpg",
+              "format": "Normal",
+              "height": 158,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1707,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/asia\/FORCES\/FORCES-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American soldiers attended a naturalization ceremony on the Fourth of July at the Bagram Air Base north of Kabul.",
+          "copyright": "Omar Sobhani\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709FORCESjpALT\/0709FORCESjpALT-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/08\/sports\/beyond-the-finish-line.html",
+      "adx_keywords": "Boston Marathon Bombings (2013);Bauman, Jeff Jr;Therapy and Rehabilitation;Amputation;Legs;Physical Therapy",
+      "column": "",
+      "section": "Sports",
+      "byline": "By TIM ROHAN",
+      "type": "Article",
+      "title": "Beyond the Finish Line",
+      "abstract": "Jeff Bauman went to the 2013 Boston Marathon to cheer for his girlfriend. In one flash, his life changed and an arduous road to recovery began.",
+      "published_date": "2013-07-08",
+      "source": "The New York Times",
+      "id": "100000002321826",
+      "asset_id": 1.0000000232183e+14,
+      "views": 2,
+      "des_facet": [
+        "BOSTON MARATHON BOMBINGS (2013)",
+        "LEGS"
+      ],
+      "org_facet": [
+        "FINISH LINE INC",
+        "FINL",
+        "NASDAQ",
+        "COSTCO WHOLESALE CORPORATION",
+        "COST",
+        "NASDAQ"
+      ],
+      "per_facet": [
+        "BAUMAN, JEFF JR"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Waking up at Spaulding Rehabilitation Hospital. Jeff Bauman found it difficult to get any sleep because of the pain.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline3\/bauman-inline3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bauman as the sutures were being removed from his amputated legs. He had been waiting for his girlfriend near the finish line of the Boston Marathon on April 15 when the first of two bombs detonated.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline1\/bauman-inline1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A resident at Boston Medical Center removing Bauman's sutures, a month after the bombings.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline2\/bauman-inline2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Medical responders and a bystander, Carlos Arredondo, center, rushed Bauman from the scene in what became a symbolic image of the Boston Marathon carnage.",
+          "copyright": "Charles Krupa\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-articleInline.jpg",
+              "format": "Normal",
+              "height": 121,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1309,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-sfSpan.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/bauman2\/bauman2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At home, Bauman packed three tablets of the painkiller oxycodone in a baggie before going to a restaurant for his father’s 53rd birthday.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline5\/bauman-inline5-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carlyn Wells, Bauman’s physical therapist at Spaulding, measured his range of hip and leg motion.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline4\/bauman-inline4-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bauman joking with his girlfriend, Erin Hurley, whose first marathon he had gone to see.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-articleInline.jpg",
+              "format": "Normal",
+              "height": 128,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1377,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman6\/jp-bauman6-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Casts of Bauman's thighs were made to build the sockets for his prosthetic legs.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline6\/bauman-inline6-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bauman had a chance to examine a prosthetic leg for the first time.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline7\/bauman-inline7-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bauman and Carlos Arredondo, the bystander who had helped him, were introduced at Fenway Park on May 28 before throwing the ceremonial first pitch for a Red Sox game.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/bauman-inline8\/bauman-inline8-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bauman hanging out with friends, who were wearing bracelets with the words “Bauman Strong” on one side and “April 15, 2013” on the other.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman8\/jp-bauman8-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At a final fitting for his prosthetic legs, Bauman walked on his own for the first time since the day of the marathon.",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sports\/jp-bauman12\/jp-bauman12-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/sports\/20130708_BAUMAN-slide-78YV\/20130708_BAUMAN-slide-78YV-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/world\/middleeast\/egypt.html",
+      "adx_keywords": "Egypt;Morsi, Mohamed;Middle East and North Africa Unrest (2010- );Demonstrations, Protests, and Riots;Defense and Military Forces;Muslim Brotherhood (Egypt);Cairo (Egypt);Coups D'Etat and Attempted Coups D'Etat;Nour, Al-, Party (Egypt)",
+      "column": "",
+      "section": "World",
+      "byline": "By DAVID D. KIRKPATRICK and KAREEM FAHIM",
+      "type": "Article",
+      "title": "Army Kills 51, Deepening Crisis in Egypt",
+      "abstract": "In a sharp escalation of tensions Monday, Egyptian soldiers opened fire on hundreds of supporters of Mohamed Morsi, the ousted president, witnesses said. The military said armed assailants fired first.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002324821",
+      "asset_id": 1.0000000232482e+14,
+      "views": 3,
+      "des_facet": [
+        "MIDDLE EAST AND NORTH AFRICA UNREST (2010- )",
+        "DEMONSTRATIONS, PROTESTS, AND RIOTS",
+        "DEFENSE AND MILITARY FORCES",
+        "COUPS D'ETAT AND ATTEMPTED COUPS D'ETAT"
+      ],
+      "org_facet": [
+        "MUSLIM BROTHERHOOD (EGYPT)",
+        "NOUR, AL-, PARTY (EGYPT)"
+      ],
+      "per_facet": [
+        "MORSI, MOHAMED"
+      ],
+      "geo_facet": [
+        "EGYPT",
+        "CAIRO (EGYPT)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wounded supporters of Mr. Morsi were treated in a makeshift hospital. At least 51 civilian demonstrators were killed and more than 400 were wounded, almost all of them by gunfire, health officials said.",
+          "copyright": "Wissam Nassar for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-337-slide-SG5Y\/09egypt-337-slide-SG5Y-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests continued outside the Republican Guard officers’ club.",
+          "copyright": "Amr Abdallah Dalsh\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/09egypt-mobile02\/09egypt-mobile02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/09egypt-mobile02\/09egypt-mobile02-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1374,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/09egypt-mobile02\/09egypt-mobile02-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Monday’s clash was the second episode of deadly violence outside the military officers’ club since Mr. Morsi was deposed on Wednesday.",
+          "copyright": "Mahmoud Khaled\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-2\/09egypt-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of Mohamed Morsi, Egypt’s deposed president, ran through what appeared to be tear gas on Monday outside the Republican Guard officers’ club in Cairo.",
+          "copyright": "Mahmoud Khaled\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-1\/09egypt-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times; Aerial Imagery from Google",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-map2\/09egypt-map2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-map2\/09egypt-map2-articleInline.jpg",
+              "format": "Normal",
+              "height": 98,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-map2\/09egypt-map2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 311,
+              "width": 600
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-map2\/09egypt-map2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/middleeast\/09egypt-map2\/09egypt-map2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/science\/what-is-nostalgia-good-for-quite-a-bit-research-shows.html",
+      "adx_keywords": "Psychology and Psychologists;Research;Memory",
+      "column": "",
+      "section": "Science",
+      "byline": "By JOHN TIERNEY",
+      "type": "Article",
+      "title": "What Is Nostalgia Good For? Quite a Bit, Research Shows",
+      "abstract": "Nostalgia, long considered a disorder, is now recognized to counteract loneliness, boredom and anxiety \u2014 making life seem more meaningful and death less frightening.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002325637",
+      "asset_id": 1.0000000232564e+14,
+      "views": 4,
+      "des_facet": [
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "RESEARCH"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jasper James\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1360,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/science\/09JPNOST\/09JPNOST-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/08\/us\/san-francisco-plane-crash.html",
+      "adx_keywords": "Asiana Airlines;Aviation Accidents and Safety;San Francisco (Calif);Fires and Firefighters;San Francisco International Airport",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By NORIMITSU ONISHI, CHRISTOPHER DREW, MATTHEW L. WALD and SARAH MASLIN NIR",
+      "type": "Article",
+      "title": "Terror on Jet: Seeing Water, Not Runway",
+      "abstract": "The pilot at the controls on Asiana Flight 214 was said to have had only 43 hours of experience flying a Boeing 777, and an airline spokeswoman said that it was his first time piloting a 777 into San Francisco.",
+      "published_date": "2013-07-08",
+      "source": "The New York Times",
+      "id": "100000002323821",
+      "asset_id": 1.0000000232382e+14,
+      "views": 5,
+      "des_facet": [
+        "AVIATION ACCIDENTS AND SAFETY",
+        "FIRES AND FIREFIGHTERS"
+      ],
+      "org_facet": [
+        "ASIANA AIRLINES",
+        "SAN FRANCISCO INTERNATIONAL AIRPORT"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "SAN FRANCISCO (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Investigators from the National Transportation Safety Board on Sunday at the scene of the crash of Asiana Airlines Flight 214 at San Francisco International Airport.",
+          "copyright": "Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 115,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1242,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-1\/PLANE-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The parents of Wang Lin Jia, center, are comforted by parents of other students who were on the Asiana Airlines flight.",
+          "copyright": "Chinatopix, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/us\/07plane-sub-web\/07plane-sub-web-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The United Airlines domestic terminal, which was crowded a day after the airport was closed.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 288,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1353
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-2\/PLANE-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Deborah Hersman, the transportation safety board chairwoman, and Mayor Edwin M. Lee.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1356,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/us\/PLANE-3\/PLANE-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Asiana Flight 214, arriving from Seoul, South Korea, broke apart and burst into flames as it crashed while landing at San Francisco International Airport. The plane’s tail, landing gear and one of its engines were ripped off.",
+          "copyright": "Jed Jacobsohn\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-articleInline.jpg",
+              "format": "Normal",
+              "height": 125,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1344,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/world\/07plane_7\/07plane_7-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/us\/financial-crisis-just-a-symptom-of-detroits-woes.html",
+      "adx_keywords": "Bankruptcies;Orr, Kevyn D;Detroit (Mich);Local Government",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MONICA DAVEY",
+      "type": "Article",
+      "title": "Financial Crisis Just a Symptom of Detroit\u2019s Woes",
+      "abstract": "As officials negotiate in a last-ditch effort to spare the city the largest municipal bankruptcy in the nation\u2019s history, residents say the city has worse problems than its $18 billion debt.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002309555",
+      "asset_id": 1.0000000230956e+14,
+      "views": 6,
+      "des_facet": [
+        "BANKRUPTCIES",
+        "LOCAL GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "ORR, KEVYN D"
+      ],
+      "geo_facet": [
+        "DETROIT (MICH)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Suzette Benguche and her brother, Kendrick, whose family lives on a block in Detroit that has a single streetlight.",
+          "copyright": "Fabrizio Costantini for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-1\/DETROIT-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A visitor to the Detroit Institute of Arts, whose collections are in danger of being sold.",
+          "copyright": "Carlos Osorio\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 132,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1420,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/DETROIT-3\/DETROIT-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/08\/opinion\/krugman-defining-prosperity-down.html",
+      "adx_keywords": "United States Economy;Recession and Depression;Unemployment;Interest Rates;Federal Reserve System",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By PAUL KRUGMAN",
+      "type": "Article",
+      "title": "Defining Prosperity Down",
+      "abstract": "Is mass unemployment becoming the new normal?",
+      "published_date": "2013-07-08",
+      "source": "The New York Times",
+      "id": "100000002324585",
+      "asset_id": 1.0000000232458e+14,
+      "views": 7,
+      "des_facet": [
+        "UNITED STATES ECONOMY",
+        "RECESSION AND DEPRESSION",
+        "INTEREST RATES"
+      ],
+      "org_facet": [
+        "FEDERAL RESERVE SYSTEM"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Krugman",
+          "copyright": "Fred R. Conrad\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1366
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/opinion\/brooks-the-secular-society.html",
+      "adx_keywords": "Religion and Belief;A Secular Age (Book);Social Conditions and Trends;Books and Literature;Taylor, Charles (1931- )",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By DAVID BROOKS",
+      "type": "Article",
+      "title": "The Secular Society",
+      "abstract": "A few years ago, Charles Taylor wrote a masterpiece on the West\u2019s move from a theistic world to one in which faith is a choice. It\u2019s worth revisiting.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002326615",
+      "asset_id": 1.0000000232662e+14,
+      "views": 8,
+      "des_facet": [
+        "RELIGION AND BELIEF",
+        "SOCIAL CONDITIONS AND TRENDS",
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TAYLOR, CHARLES (1931- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Brooks",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-articleInline.jpg",
+              "format": "Normal",
+              "height": 240,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1366
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/us\/in-asiana-crash-investigation-early-focus-is-on-the-crews-actions.html",
+      "adx_keywords": "Aviation Accidents and Safety;Asiana Airlines;San Francisco International Airport;San Francisco (Calif);National Transportation Safety Board;Lee Kang-guk;Pilots",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MATTHEW L. WALD and NORIMITSU ONISHI",
+      "type": "Article",
+      "title": "In Asiana Crash Investigation, Early Focus Is on the Crew\u2019s Actions",
+      "abstract": "Early examinations showed no obvious mechanical problems with the Boeing 777, which crashed in San Francisco, killing two passengers.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002326554",
+      "asset_id": 1.0000000232655e+14,
+      "views": 9,
+      "des_facet": [
+        "AVIATION ACCIDENTS AND SAFETY",
+        "PILOTS"
+      ],
+      "org_facet": [
+        "ASIANA AIRLINES",
+        "SAN FRANCISCO INTERNATIONAL AIRPORT",
+        "NATIONAL TRANSPORTATION SAFETY BOARD"
+      ],
+      "per_facet": [
+        "LEE KANG-GUK"
+      ],
+      "geo_facet": [
+        "SAN FRANCISCO (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Asiana jet taxied on Monday past the wreck of the airline’s Flight 214, which crashed on Saturday on approach to San Francisco International Airport.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 83,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 896,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-1\/PLANE-1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A family member of one of the two Chinese girls killed in Saturday’s crash wept while checking in for a flight from Shanghai.",
+          "copyright": "Eugene Hoshiko\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-2\/PLANE-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People gathered for a memorial in Jiangshan, home of the crash victims, in the eastern Chinese province of Zhejiang.",
+          "copyright": "CHINATOPIX, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PLANE-3\/PLANE-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/nyregion\/amid-housing-scarcity-many-buyers-are-going-home-empty-handed.html",
+      "adx_keywords": "Real Estate and Housing (Residential);Real Estate Brokers;Appraisals and Valuation (Property);Manhattan (NYC);Brooklyn (NYC);New York City",
+      "column": "The Appraisal",
+      "section": "N.Y. \/ Region",
+      "byline": "By ELIZABETH A. HARRIS",
+      "type": "Article",
+      "title": "Words to Start a Stampede: New York Apartment for Sale",
+      "abstract": "The number of sale listings in and around Manhattan has fallen far behind demand, causing desperation and frantic offers.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002322171",
+      "asset_id": 1.0000000232217e+14,
+      "views": 10,
+      "des_facet": [
+        "REAL ESTATE AND HOUSING (RESIDENTIAL)",
+        "REAL ESTATE BROKERS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "MANHATTAN (NYC)",
+        "BROOKLYN (NYC)",
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Annette Suarez, with her dog Chi Chi, listed her 408-square-foot one-bedroom apartment in the West Village for $595,000 two months ago. At the time, it was the only condominium for sale in the West Village for under $600,000.",
+          "copyright": "Hiroko Masuike\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/nyregion\/Y-JPFRENZY\/Y-JPFRENZY-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/08\/opinion\/my-mothers-abortion.html",
+      "adx_keywords": "Abortion;Law and Legislation;Texas;Davis, Wendy",
+      "column": "Op-Ed Contributor",
+      "section": "Opinion",
+      "byline": "By BETH MATUSOFF MERFISH",
+      "type": "Article",
+      "title": "My Mother\u2019s Abortion",
+      "abstract": "What the movement for reproductive rights needs is for the faces of freedom to emerge from the captivity of shame.",
+      "published_date": "2013-07-08",
+      "source": "The New York Times",
+      "id": "100000002322111",
+      "asset_id": 1.0000000232211e+14,
+      "views": 11,
+      "des_facet": [
+        "ABORTION"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DAVIS, WENDY"
+      ],
+      "geo_facet": [
+        "TEXAS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ping Zhu",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-articleInline.jpg",
+              "format": "Normal",
+              "height": 301,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1536,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 500,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/08\/opinion\/0708OPEDzhu\/0708OPEDzhu-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/opinion\/bruni-sex-and-the-sorriest-pols.html",
+      "adx_keywords": "Weiner, Anthony D;Spitzer, Eliot L;United States Politics and Government;New York City",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By FRANK BRUNI",
+      "type": "Article",
+      "title": "Sex and the Sorriest Pols",
+      "abstract": "What Eliot Spitzer and Anthony Weiner are seeking isn\u2019t redemption, and their quests have much different degrees of audacity.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002326453",
+      "asset_id": 1.0000000232645e+14,
+      "views": 12,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "WEINER, ANTHONY D",
+        "SPITZER, ELIOT L"
+      ],
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Frank Bruni",
+          "copyright": "Earl Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 975,
+              "width": 650
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2011\/06\/24\/opinion\/Bruni_new\/Bruni_new-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/10\/us\/3-women-held-captive-in-cleveland-thank-supporters.html",
+      "adx_keywords": "Kidnapping;Sex Crimes;Cleveland (Ohio);DeJesus, Gina;Berry, Amanda;Knight, Michelle;Castro, Ariel",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By TIMOTHY WILLIAMS",
+      "type": "Article",
+      "title": "3 Women Held Captive in Cleveland Thank Supporters",
+      "abstract": "The women, who were held for a decade, issued a video that included their first public comments since escaping from captivity in May.",
+      "published_date": "2013-07-10",
+      "source": "The New York Times",
+      "id": "100000002326943",
+      "asset_id": 1.0000000232694e+14,
+      "views": 13,
+      "des_facet": [
+        "KIDNAPPING",
+        "SEX CRIMES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DEJESUS, GINA",
+        "BERRY, AMANDA",
+        "KNIGHT, MICHELLE",
+        "CASTRO, ARIEL"
+      ],
+      "geo_facet": [
+        "CLEVELAND (OHIO)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Amanda Berry from a video posted late Monday.",
+          "copyright": "Hennes Paynter Communications, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1408,
+              "width": 2000
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/10\/us\/10ohio1_cnd\/10ohio1_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/07\/opinion\/sunday\/the-joy-of-old-age-no-kidding.html",
+      "adx_keywords": "Elderly;Death and Dying",
+      "column": "Opinion",
+      "section": "Opinion",
+      "byline": "By OLIVER SACKS",
+      "type": "Article",
+      "title": "The Joy of Old Age. (No Kidding.)",
+      "abstract": "At 80, I often feel life is about to begin, only to realize it is almost over.",
+      "published_date": "2013-07-07",
+      "source": "The New York Times",
+      "id": "100000002318733",
+      "asset_id": 1.0000000231873e+14,
+      "views": 14,
+      "des_facet": [
+        "ELDERLY",
+        "DEATH AND DYING"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/parenting.blogs.nytimes.com\/2013\/07\/07\/dont-make-your-childre-the-exception-to-every-rule\/",
+      "adx_keywords": "Children and Childhood; Happiness; helicopter parents; Parenting; Psychology and Psychologists",
+      "column": "Motherlode",
+      "section": "Style",
+      "byline": "By LISA DAMOUR",
+      "type": "Blog",
+      "title": "Don't Make Your Children the Exception to Every Rule",
+      "abstract": "Raising conscientious children is definitely not the most fun part of parenting, but protecting them from the consequences of every failure is the biggest parental failure of all.",
+      "published_date": "2013-07-07",
+      "source": "The New York Times",
+      "id": 47,
+      "asset_id": 47,
+      "views": 15,
+      "des_facet": [
+        "CHILDREN AND CHILDHOOD",
+        "HAPPINESS",
+        "PARENTING",
+        "PSYCHOLOGY AND PSYCHOLOGISTS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/opinionator.blogs.nytimes.com\/2013\/07\/06\/eyeball-of-providence\/",
+      "adx_keywords": "Cataracts; Eyes and Eyesight; Surgery and Surgeons",
+      "column": "Anxiety",
+      "section": "Opinion",
+      "byline": "By DANIEL MENAKER",
+      "type": "Blog",
+      "title": "Eyeball of Providence",
+      "abstract": "I’m in pain. The doctor’s about to stick a needle in my eye. Here’s why that’s a good thing.",
+      "published_date": "2013-07-06",
+      "source": "The New York Times",
+      "id": 289,
+      "asset_id": 289,
+      "views": 16,
+      "des_facet": [
+        "CATARACTS",
+        "EYES AND EYESIGHT",
+        "SURGERY AND SURGEONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Jien",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/07\/sunday-review\/07ANXIETY\/07ANXIETY-blog427.jpg",
+              "format": "Large",
+              "height": 339,
+              "width": 427
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/blogs_v3\/opinionator\/anxiety\/anxiety75.gif",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/world\/europe\/spaniards-fight-to-get-savings-back.html",
+      "adx_keywords": "Banking and Financial Institutions;European Sovereign Debt Crisis (2010- );Savings;Spain;Bankia SA;Frauds and Swindling",
+      "column": "",
+      "section": "World",
+      "byline": "By SUZANNE DALEY",
+      "type": "Article",
+      "title": "Spaniards Fight to Get Savings Back",
+      "abstract": "Many Spaniards have seen their nest eggs virtually wiped out in what critics call a deceptive and possibly fraudulent sales campaign by banks.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002292446",
+      "asset_id": 1.0000000229245e+14,
+      "views": 17,
+      "des_facet": [
+        "BANKING AND FINANCIAL INSTITUTIONS",
+        "EUROPEAN SOVEREIGN DEBT CRISIS (2010- )",
+        "SAVINGS"
+      ],
+      "org_facet": [
+        "BANKIA SA"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "SPAIN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A recent protest at a Bankia office in Madrid. Many bank customers found that the “preferred” instruments they were offered wiped out most of their savings.",
+          "copyright": "Samuel Aranda for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-thumbStandard-v6.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-articleInline.jpg",
+              "format": "Normal",
+              "height": 121,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1300,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-square640-v5.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-square320-v5.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/world\/0709SPAIN\/0709SPAIN-thumbLarge-v6.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/14\/magazine\/gaby-hoffmann-the-eloise-of-the-chelsea-hotel.html",
+      "adx_keywords": "Hoffmann, Gaby;Actors and Actresses",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By TAFFY BRODESSER-AKNER",
+      "type": "Article",
+      "title": "The Chelsea Hotel Had Its Own Eloise",
+      "abstract": "How Gaby Hoffmann survived child stardom.",
+      "published_date": "2013-07-14",
+      "source": "The New York Times",
+      "id": "100000002325324",
+      "asset_id": 1.0000000232532e+14,
+      "views": 18,
+      "des_facet": [
+        "ACTORS AND ACTRESSES"
+      ],
+      "org_facet": [
+        "WHOLE FOODS MARKET INC",
+        "WFM",
+        "NASDAQ"
+      ],
+      "per_facet": [
+        "HOFFMANN, GABY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Family portrait, early 1980s: Gaby Hoffmann, being held by her mother, Viva; her half-sister, Alexandra; and her father, the actor Anthony Herrera (on the TV).",
+          "copyright": "Claudio Edinger",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1439,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman3\/14hoffman3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gaby Hoffmann",
+          "copyright": "Erik Madigan Heck for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-articleInline.jpg",
+              "format": "Normal",
+              "height": 233,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1672
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman_span\/mag-14Hoffman-t_CA1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hoffmann, age 6, with Kevin Costner in “Field of Dreams” (1989).",
+          "copyright": "Universal\/Everett Collection",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/mag-14Hoffman-t_CA0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/14hoffman2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/14hoffman2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1369,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/mag-14Hoffman-t_CA0-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/14hoffman2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/mag-14Hoffman-t_CA0-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/14\/magazine\/14hoffman2\/mag-14Hoffman-t_CA0-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/us\/perry-will-not-seek-re-election-as-texas-governor.html",
+      "adx_keywords": "Presidential Election of 2016;Governors (US);Perry, Rick;Texas;Elections, Governors",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JOHN SCHWARTZ and JONATHAN MARTIN",
+      "type": "Article",
+      "title": "Perry Says He Won’t Seek Governorship Again in Texas ",
+      "abstract": "Rick Perry, the longest-serving governor of Texas, said he would instead \u201cpray and reflect and work to determine my own future path.\u201d",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002325734",
+      "asset_id": 1.0000000232573e+14,
+      "views": 19,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "ELECTIONS, GOVERNORS"
+      ],
+      "org_facet": [
+        "CATERPILLAR INC",
+        "CAT",
+        "NYSE"
+      ],
+      "per_facet": [
+        "PERRY, RICK"
+      ],
+      "geo_facet": [
+        "TEXAS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Rick Perry of Texas, who has been in office since 2000, said he would not seek re-election but would “work to determine my own future path.”",
+          "copyright": "Eric Gay\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-articleInline.jpg",
+              "format": "Normal",
+              "height": 129,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1394,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/us\/PERRY\/PERRY-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/07\/09\/nyregion\/as-spitzer-campaigns-candidates-and-voters-weigh-in.html",
+      "adx_keywords": "Spitzer, Eliot L;Elections, Comptrollers;Quinn, Christine C;Thompson, William C Jr;Weiner, Anthony D;New York City;Stringer, Scott M",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By MICHAEL BARBARO and DAVID W. CHEN",
+      "type": "Article",
+      "title": "Spitzer Quickly Hits Establishment Headwind",
+      "abstract": "Former Gov. Eliot Spitzer began his effort to run for city comptroller, while mayoral hopefuls and New Yorkers debated whether he deserved a second chance.",
+      "published_date": "2013-07-09",
+      "source": "The New York Times",
+      "id": "100000002325581",
+      "asset_id": 1.0000000232558e+14,
+      "views": 20,
+      "des_facet": [
+        "ELECTIONS, COMPTROLLERS"
+      ],
+      "org_facet": [
+        "HOME DEPOT INC",
+        "HD",
+        "NYSE"
+      ],
+      "per_facet": [
+        "SPITZER, ELIOT L",
+        "QUINN, CHRISTINE C",
+        "THOMPSON, WILLIAM C JR",
+        "WEINER, ANTHONY D",
+        "STRINGER, SCOTT M"
+      ],
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. Eliot Spitzer had no trouble attracting attention on his first day on the trail.",
+          "copyright": "Damon Winter\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-articleInline.jpg",
+              "format": "Normal",
+              "height": 125,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1347,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER1\/jpSPITZER1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Another Democratic candidate for comptroller, Scott M. Stringer, campaigned with his wife, Elyse Buxbaum.",
+          "copyright": "Damon Winter\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/jpSPITZER2\/jpSPITZER2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former Gov. Eliot Spitzer spoke to the news media and tried to collect signatures for his candidacy for city comptroller on Monday in Union Square.",
+          "copyright": "Damon Winter\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1152,
+              "width": 2048
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-square640-v2.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/07\/09\/nyregion\/09spitzer-web\/09spitzer-web-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
