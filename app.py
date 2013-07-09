@@ -1,67 +1,68 @@
 import os
 
 from flask import Flask
-from flask import render_template
-from flask import url_for
-from flask import request
 
 from twilio import twiml
-from twilio.util import TwilioCapability
+
+import requests
 
 
 # Declare and configure application
 app = Flask(__name__, static_url_path='/static')
 app.config.from_pyfile('local_settings.py')
+app.config['API_PATH'] = \
+    "http://api.nytimes.com/svc/mostpopular/v2/"\
+    "mostviewed/all-sections/1.json?api-key="
 
 
-# Voice Request URL
-@app.route('/voice', methods=['GET', 'POST'])
-def voice():
+# Specify Conference Room
+@app.route('/conference/<conference_room>', methods=['POST'])
+def voice(conference_room):
     response = twiml.Response()
-    response.say("Congratulations! You deployed the Twilio Hackpack" \
-            " for Heroku and Flask.")
+    with response.dial(timeLimit='120') as dial:
+        dial.conference(conference_room)
     return str(response)
 
 
-# SMS Request URL
-@app.route('/sms', methods=['GET', 'POST'])
-def sms():
+# Conference Room Hold Music Reading Headlines from New York Times
+@app.route('/wait', methods=['POST'])
+def waitUrl():
     response = twiml.Response()
-    response.sms("Congratulations! You deployed the Twilio Hackpack" \
-            " for Heroku and Flask.")
+
+    if app.config['NYTIMES_API_KEY']:
+        api_request = requests.get("%s%s" % (app.config['API_PATH'],
+            app.config['NYTIMES_API_KEY']))
+        if api_request.status_code == 200:
+            json_response = api_request.json()
+            if json_response:
+                for result in json_response['results']:
+                    response.say(result['abstract'], voice='alice')
+                    response.pause()
+            else:
+                response.say("Unable to parse result from New York Times API.")
+                response.say("Check your configuration and logs.")
+                response.redirect("/music")
+        else:
+            response.say("Unable to reach New York Times API.")
+            response.say("Check your configuration and logs for the error.")
+            response.redirect("/music")
+    else:
+        response.say("Configuration error: You need to set your New York " \
+                "Times API Key environment variable. See the README for " \
+                "more information.")
+        response.redirect("/music")
+
     return str(response)
 
 
-# Twilio Client demo template
-@app.route('/client')
-def client():
-    configuration_error = None
-    for key in ('TWILIO_ACCOUNT_SID', 'TWILIO_AUTH_TOKEN', 'TWILIO_APP_SID',
-            'TWILIO_CALLER_ID'):
-        if not app.config[key]:
-            configuration_error = "Missing from local_settings.py: " \
-                    "%s" % key
-            token = None
-    if not configuration_error:
-        capability = TwilioCapability(app.config['TWILIO_ACCOUNT_SID'],
-            app.config['TWILIO_AUTH_TOKEN'])
-        capability.allow_client_incoming("joey_ramone")
-        capability.allow_client_outgoing(app.config['TWILIO_APP_SID'])
-        token = capability.generate()
-    params = {'token': token}
-    return render_template('client.html', params=params,
-            configuration_error=configuration_error)
-
-
-# Installation success page
-@app.route('/')
-def index():
-    params = {
-        'Voice Request URL': url_for('.voice', _external=True),
-        'SMS Request URL': url_for('.sms', _external=True),
-        'Client URL': url_for('.client', _external=True)}
-    return render_template('index.html', params=params,
-            configuration_error=None)
+# In the event of a failure, deliver hold music.
+@app.route('/music', methods=['POST'])
+def music():
+    response = twiml.Response()
+    response.say("Now, enjoy this normal hold music.")
+    response.play("http://com.twilio.music.soft-rock.s3.amazonaws.com/"\
+            "Fireproof_Babies_-_Melancholy_4_a_Sun-lit_day.mp3")
+    return str(response)
 
 
 # If PORT not specified by environment, assume development config.

@@ -1,10 +1,14 @@
 import unittest
+from mock import patch
+import simplejson as json
+
 from .context import app
 
 
 app.config['TWILIO_ACCOUNT_SID'] = 'ACxxxxxx'
 app.config['TWILIO_AUTH_TOKEN'] = 'yyyyyyyyy'
 app.config['TWILIO_CALLER_ID'] = '+15558675309'
+app.config['NYTIMES_API_KEY'] = '###'
 
 
 class TwiMLTest(unittest.TestCase):
@@ -54,11 +58,67 @@ class TwiMLTest(unittest.TestCase):
         return self.app.post(url, data=params)
 
 
-class ExampleTests(TwiMLTest):
-    def test_sms(self):
-        response = self.sms("Test")
-        self.assertTwiML(response)
-
+class ConferenceTests(TwiMLTest):
     def test_voice(self):
-        response = self.call()
+        response = self.call(url="/conference/conference_test")
         self.assertTwiML(response)
+        self.assertTrue('<Conference>' in response.data, "Could not find " \
+                "<Conference> in response: %s" % response.data)
+
+
+class WaitTests(TwiMLTest):
+    @patch('requests.get')
+    def test_waitUrl(self, MockRequests):
+        mock_request = MockRequests()
+        mock_request.status_code = 200
+        mock_good_json = json.loads(
+                open('./tests/test_assets/good.json').read())
+        mock_request.json.return_value = mock_good_json
+
+        response = self.call(url="/wait")
+
+        self.assertTwiML(response)
+        self.assertTrue("<Say voice=\"alice\">" in response.data, "Could not " \
+                "find <Say> verb in response: %s" % response.data)
+
+    @patch('requests.get')
+    def test_waitUrlAuthError(self, MockRequests):
+        mock_request = MockRequests()
+        mock_request.status_code = 403
+
+        response = self.call(url="/wait")
+
+        self.assertTwiML(response)
+        self.assertTrue("<Redirect>" in response.data, "Could not find hold " \
+                "music in failed response: %s" % response.data)
+
+    @patch('requests.get')
+    def test_waitUrlBadJson(self, MockRequests):
+        mock_request = MockRequests()
+        mock_request.status_code = 200
+        mock_request.json.return_value = None
+
+        response = self.call(url="/wait")
+
+        self.assertTwiML(response)
+        self.assertTrue("<Redirect>" in response.data, "Could not find hold " \
+                "music in failed response: %s" % response.data)
+
+    def test_waitUrlNoKey(self):
+        app.config['NYTIMES_API_KEY'] = None
+
+        response = self.call(url="/wait")
+
+        self.assertTwiML(response)
+        self.assertTrue("Configuration error" in response.data, "Could not " \
+                "find configuration error message in response: %s" %
+                response.data)
+        self.assertTrue("<Redirect>" in response.data, "Could not find hold " \
+                "music in failed response: %s" % response.data)
+
+    def test_music(self):
+        response = self.call(url="/music")
+
+        self.assertTwiML(response)
+        self.assertTrue("<Play>" in response.data, "Could not find music in " \
+                "response: %s" % response.data)
