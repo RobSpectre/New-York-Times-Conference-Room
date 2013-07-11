@@ -104,7 +104,7 @@ ACCOUNT_SID = "ACxxxxxxxxxxxxx"
 AUTH_TOKEN = "yyyyyyyyyyyyyyyy"
 TWILIO_APP_SID = "APzzzzzzzzz"
 TWILIO_CALLER_ID = "+17778889999"
-export NYTIMES_API_KEY=wooooooo
+NYTIMES_API_KEY=wooooooo
 ```
 
 #### Setting Your Own Environment Variables
@@ -164,3 +164,7 @@ make test
  York](http://www.meetup.com/Twilio/New-York-NY/) 
 * Inspired by a [tweet from Amit
   Jotwani](https://twitter.com/amit/status/354670570811572224).
+
+[![githalytics.com
+alpha](https://cruel-carlota.pagodabox.com/950fbf2789de94d1df843a1a5081ce40
+"githalytics.com")](http://githalytics.com/RobSpectre/New-York-Times-Conference-Room)
